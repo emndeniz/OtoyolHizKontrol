@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Otoyol Hız Kontrol</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="text_yes">Evet</string>
+
+    <string name="title_location_permission_denied">Konum izni reddedildi</string>
+    <string name="text_location_permission_denied">Otoyol hız kontrol uygulaması konum iznini reddettiniz. Konuma bağlı özelliklerden faydalanamayacaksınız</string>
+    <string name="text_ok">Tamam</string>
+</resources>
